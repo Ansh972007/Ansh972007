@@ -1,3 +1,4 @@
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Software+Developer;Automation+Builder;Java+%7C+Python+%7C+JavaScript;Building+Real+World+Projects&center=true&width=500&height=50)
 # Hi 👋 I'm Ansh
 
 🎓 BTech CSE (Data Science) Student  
